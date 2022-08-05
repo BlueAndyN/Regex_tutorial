@@ -11,9 +11,9 @@ In this tutorial, we will break down the specification of regular expressions wh
 
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
-- [Grouping Constructs](#grouping_constructs)
-- [Bracket Expresions](#bracket_expressions)
-- [Character Classes](#character_classes)
+- [Grouping Constructs](#grouping-constructs)
+- [Bracket Expresions](#bracket-expressions)
+- [Character Classes](#character-classes)
 
 
 
