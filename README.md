@@ -12,6 +12,10 @@ In this tutorial, we will break down the specification of regular expressions wh
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
 - [Grouping Constructs](#grouping_constructs)
+- [Bracket Expresions](#bracket_expressions)
+- [Character Classes](#character_classes)
+
+
 
 ## Regex Components
 
